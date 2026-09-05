@@ -1,5 +1,7 @@
 # 02 · 思科 AnyConnect 在中国能用吗
 
+> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/anyconnect-china
+
 能。AnyConnect 是思科的企业 VPN 协议，全世界的公司靠它让员工远程办公，外企在华分支每天都在用，整体被禁的代价太高。**真正会被封的是某一个服务器地址，不是协议。** 所以"能不能用"取决于服务商有没有足够多的地址、换得够不够快。
 
 ## 为什么它比私有 VPN App 耐封
@@ -25,11 +27,11 @@
 2. **换网络。** 宽带不行切手机流量，反之亦然，不同运营商的干扰不同步。
 3. **看报错。** `Login failed` 是账号密码或过期；`Untrusted server certificate` 多半是系统时间不对或当前网络在拦截 TLS，换网络；`Connection attempt has failed` 才是地址不可达。
 4. **更新客户端。** 系统大版本升级后尤其要更新。
-5. **换接入方式。** 同一账号可以用 OpenVPN 或音乐盒连同样的服务器，三种协议的封锁彼此独立，见 [02 · 五种接入方式怎么选](https://github.com/vipinus/network-guides/blob/main/02-choose-your-connection-method.md)。
+5. **换接入方式。** 同一账号可以用 OpenVPN 或音乐盒连同样的服务器，三种协议的封锁彼此独立，见 [02 · 选择哪种连接方式](https://github.com/vipinus/network-guides/blob/main/02-choose-your-connection-method.md)。
 
 ## 更新 Cisco AnyConnect
 
-思科把它改名成 Cisco Secure Client，用法没变。不用先卸载，直接装新版覆盖，保存的地址会保留。手机在 App Store / Google Play 更新；商店搜不到就用开源的 OpenConnect，协议相同、账号通用（iOS 换区见[排障 03](https://github.com/vipinus/troubleshooting-guides/blob/main/03-ios-app-store-region.md)）。
+思科把它改名成 Cisco Secure Client，用法没变。不用先卸载，直接装新版覆盖，保存的地址会保留。手机在 App Store / Google Play 更新；商店搜不到就用开源的 OpenConnect，协议相同、账号通用（iOS 换区见[排障 03](https://github.com/vipinus/client-guides/blob/main/06-ios-app-store.md)）。
 
 ## 常见问题
 

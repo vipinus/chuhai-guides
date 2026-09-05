@@ -18,12 +18,12 @@
 
 ## 线路是怎么工作的
 
-把你的流量先加密送到一台海外服务器，再由它访问目标。目标看到的是那台服务器的 IP。做法有客户端、网页代理、路由器三种，选择方法见 [五种接入方式怎么选](https://github.com/vipinus/network-guides/blob/main/02-choose-your-connection-method.md)。
+把你的流量先加密送到一台海外服务器，再由它访问目标。目标看到的是那台服务器的 IP。做法有客户端、网页代理、路由器三种，选择方法见 [选择哪种连接方式](https://github.com/vipinus/network-guides/blob/main/02-choose-your-connection-method.md)。
 
 ## 三个常见误区
 
 - **改 DNS 没用。** 连不上是路径问题，不是解析问题。
-- **速度看两点之间的线路。** 从国内出去，瓶颈是跨境链路和你的运营商出口，选地区比选服务器配置重要，见 [03](03-which-region-is-fastest.md)。
+- **速度看两点之间的线路。** 从国内出去，瓶颈是跨境链路和你的运营商出口，选地区比选服务器配置重要，见 [03](https://github.com/vipinus/chuhai-guides/blob/main/03-which-region-is-fastest.md)。
 - **用着国内 App 时不用全走线路。** 开分流：国内网站直连、海外网站走线路，两边都不绕远，见 [路由器分流](https://github.com/vipinus/router-guides/blob/main/03-router-split-routing.md)。
 
 ---
