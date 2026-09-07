@@ -27,7 +27,7 @@
 2. **换网络。** 宽带不行切手机流量，反之亦然，不同运营商的干扰不同步。
 3. **看报错。** `Login failed` 是账号密码或过期；`Untrusted server certificate` 多半是系统时间不对或当前网络在拦截 TLS，换网络；`Connection attempt has failed` 才是地址不可达。
 4. **更新客户端。** 系统大版本升级后尤其要更新。
-5. **换接入方式。** 同一账号可以用 OpenVPN 或音乐盒连同样的服务器，三种协议的封锁彼此独立，见 [02 · 选择哪种连接方式](https://github.com/vipinus/network-guides/blob/main/02-choose-your-connection-method.md)。
+5. **换接入方式。** 同一账号可以用 OpenVPN 或流量伪装连同样的服务器，三种协议的封锁彼此独立，见 [02 · 选择哪种连接方式](https://github.com/vipinus/network-guides/blob/main/02-choose-your-connection-method.md)。
 
 ## 更新 Cisco AnyConnect
 

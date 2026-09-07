@@ -21,7 +21,7 @@
 
 ## 最后看协议
 
-- 网络丢包多（老小区宽带、手机流量）：sing-box 的 hysteria2 抗丢包，往往最快。
+- 网络丢包多（老小区宽带、手机流量）：Hiddify 的 hysteria2 抗丢包，往往最快。
 - 校园网、公司网限制 UDP：hysteria2 走 UDP 会被限速，改用走 TLS 的 AnyConnect。
 - 同一个账号三种都能用，不通就换。
 
