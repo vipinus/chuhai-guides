@@ -24,6 +24,8 @@
 | [04 · 公司电脑怎么用：没有管理员权限、已连着公司 VPN](04-office-laptop.md) |
 | [05 · Linux 服务器和命令行工具怎么走线路](05-linux-server.md) |
 | [06 · 群晖、威联通 NAS 怎么走线路](06-nas-openvpn.md) |
+| [07 · 访问 AI 工具（ChatGPT、Claude、Gemini 等）](07-ai-tools.md) |
+| [08 · 查文献、下论文、投稿](08-academic-research.md) |
 
 每篇文章同时发在本仓库的 Discussions 里，可以直接回复提问。
 
