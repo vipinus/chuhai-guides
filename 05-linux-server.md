@@ -59,4 +59,4 @@ Docker 守护进程不读 shell 环境变量，要写进 /etc/systemd/system/doc
 本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/linux-server
 
 ---
-由 [蓝诺](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
