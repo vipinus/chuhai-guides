@@ -18,7 +18,7 @@
 
 ## 线路是怎么工作的
 
-把你的流量先加密送到一台海外服务器，再由它访问目标。目标看到的是那台服务器的 IP。做法有客户端、网页代理、路由器三种，选择方法见 [选择哪种连接方式](https://github.com/vipinus/network-guides/blob/main/02-choose-your-connection-method.md)。
+把你的流量先加密送到一台海外服务器，再由它访问目标。目标看到的是那台服务器的 IP。做法有客户端、网页代理、路由器三种，选择方法见 [各种连接方式适用的场景](https://github.com/vipinus/network-guides/blob/main/02-choose-your-connection-method.md)。
 
 ## 三个常见误区
 

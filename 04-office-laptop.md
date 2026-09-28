@@ -44,7 +44,7 @@
 - [网页代理设置页：扩展安装与恢复地址](https://7d24hrs.com/zh-CN/httpproxy)
 - [网页代理是什么、什么时候用](https://7d24hrs.com/zh-CN/guides/web-proxy)
 - [Linux 服务器和命令行工具怎么走线路](https://7d24hrs.com/zh-CN/guides/linux-server)
-- [选择哪种连接方式](https://7d24hrs.com/zh-CN/guides/choose-connection)
+- [各种连接方式适用的场景](https://7d24hrs.com/zh-CN/guides/choose-connection)
 
 本文网站版（含繁体与英文）：https://7d24hrs.com/zh-CN/guides/office-laptop
 
