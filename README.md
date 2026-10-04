@@ -1,5 +1,7 @@
 # 出海访问指南 · 在国内用海外服务
 
+> **本库已于 2026-10-04 合并到 [蓝盾知识库 guides-zh-CN](https://github.com/vipinus/guides-zh-CN/tree/main/chuhai)**，以后的更新都在新库；这里的内容不再维护。其他语言：[繁體中文](https://github.com/vipinus/guides-zh-TW/tree/main/chuhai)
+
 人在国内，办公、开发、学术、游戏、影音要用的海外服务打不开或者极慢。一篇一个场景，讲清楚**要什么、怎么选、有什么坑**。由 [蓝盾](https://7d24hrs.com) 团队维护，中文、通用。
 
 **全家或整个办公室要用**：看 [路由器分流](https://github.com/vipinus/router-guides/blob/main/03-router-split-routing.md)——国内网站直连、海外网站走线路，设备上什么都不用装。
